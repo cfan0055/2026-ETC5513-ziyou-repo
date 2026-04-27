@@ -1,0 +1,13 @@
+---
+title: "Practice for fucking mid exam"
+author: ZiYou
+format: 
+  html:
+    toc: true
+date: "today"
+execute: 
+  echo: false
+  warning: false
+  message: false
+---
+
